@@ -4,7 +4,9 @@ library(brms)
 
 
 # Read data
-dat_brms <- read_rds("data/placeholder.rds")
+# please download our data from https://doi.org/10.25898/sv0n-sw84 and then
+# import it as dat_brms as follows
+dat_brms <- read_csv("path/to/downloaded/csv")
 
 
 
