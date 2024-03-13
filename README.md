@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/608901431.svg)](https://zenodo.org/doi/10.5281/zenodo.10656043)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10815402.svg)](https://doi.org/10.5281/zenodo.10815402)
 
 ## GENERAL INFORMATION
 
@@ -49,7 +49,7 @@ Data: https://doi.org/10.25898/sv0n-sw84
 ## DATA & CODE FILE OVERVIEW
 This repository mainly consist of 1 data file and 1 code script and this README document, with the following data and code filenames and variables:
 
-1. data_clean.csv (also available for download from the National Vegetation Survey Databank (NVS) https://doi.org/10.25898/sv0n-sw84, which is hosted by Manaaki Whenua Landcare Research of New Zealand to permanently store publicly available data; the link also contains some information about the raw data that was used to generate this cleaned data)
+  1. data_clean.csv (also available for download from the National Vegetation Survey Databank (NVS) https://doi.org/10.25898/sv0n-sw84, which is hosted by Manaaki Whenua Landcare Research of New Zealand to permanently store publicly available data; the link also contains some information about the raw data that was used to generate this cleaned data)
     - `Plot`: forest plot ID
     - `Focal`: focal species ID
     - `D1`: focal tree diameter	
