@@ -4,9 +4,8 @@ library(brms)
 
 
 # Read data
-# please download our data from https://doi.org/10.25898/sv0n-sw84 and then
-# import it as dat_brms as follows
-dat_brms <- read_csv("path/to/downloaded/csv")
+# you may also download our data from https://doi.org/10.25898/sv0n-sw84 
+dat_brms <- read_csv("data/data_clean.csv")
 
 
 
